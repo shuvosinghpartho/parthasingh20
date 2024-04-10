@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthasingh20&label=Profile%20views&color=0e75b6&style=flat" alt="parthasingh20" /> </p>
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **web Development**
 
-- 🌱 I’m currently learning **C++ and java**
+- 🌱 I’m currently learning **C++ and javaScripts**
 
-- 💬 Ask me about **Andriod, MEARN**
+- 💬 Ask me about **Data Structure Algorithm**
 
 - 📫 How to reach me **psingha269@gmail.com**
 
